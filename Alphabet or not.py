@@ -2,6 +2,6 @@ list=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s
 x=input()
 print(x)
 if(x in list):
- print("alphabet");
+ print("Alphabet");
 else:
- print("not alphabet");
+ print("not Alphabet");
