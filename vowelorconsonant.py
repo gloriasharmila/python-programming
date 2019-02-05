@@ -1,5 +1,5 @@
 list=['a','e','i','o','u']
-x=input("value is:")
+x=input()
 print(x)
 if(x in list):  
  print("vowel")
