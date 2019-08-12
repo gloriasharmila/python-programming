@@ -1,5 +1,9 @@
 a=int(input())
 b=int(input())
-for i range(a+1,b):
-if i%2==0:
-print(i)
+for i in range(a,b+1):
+  if num>1:
+    for i in range(2,num):
+      if(num%i==0):
+        break
+      else:
+        print(num)
